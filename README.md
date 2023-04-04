@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/legendsSystems/legendsDiscordLogs">
-    <img src="https://legendsSystems.com/i/legendsDiscordLogs">
+    <img src=https://avatars.githubusercontent.com/u/127198147?s=200&v=4">
   </a>
 
   <h1 align="center">legendsDiscordLogs</h1>
@@ -19,7 +19,7 @@
     ·
     <a href="https://discord.gg/legendsSystems">Request Feature</a>
     ·
-    <a href="https://docs.legendsSystems.com/legendsDiscordLogs/">Documentation</a>
+    <a href="https://legends.systems/legendsDiscordLogs/">Documentation</a>
   </p>
 </div>
 
