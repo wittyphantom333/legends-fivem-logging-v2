@@ -1,0 +1,134 @@
+{
+  "newInstall": false,
+  "all": {
+    "channelId": "1001243077148684378",
+    "color": "#A1A1A1",
+    "embed": true,
+    "client": 1
+  },
+  "system": {
+    "channelId": "1001243078436339842",
+    "icon": "🧾",
+    "color": "#A1A1A1",
+    "embed": true,
+    "client": 2
+  },
+  "imageStore": {
+    "channelId": "1001243077693943879",
+    "webhookID": "1079946189602045983",
+    "webhookToken": "-np2iwG8nP5pFczhhAvKUoXYwq0PG9hHaehHCmxsEq-xnecoVVg_swRsFieEcDbuIyYe"
+  },
+  "chat": {
+    "channelId": "1001243079262617771",
+    "icon": "💬",
+    "color": "#A1A1A1",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "join": {
+    "channelId": "1001243080353120377",
+    "icon": "📥",
+    "color": "#3AF241",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "leave": {
+    "channelId": "1001243082282500307",
+    "icon": "📤",
+    "color": "#F23A3A",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "death": {
+    "channelId": "1001243083398185081",
+    "icon": "💀",
+    "color": "#000000",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "shooting": {
+    "channelId": "1001243085113675828",
+    "icon": "🔫",
+    "color": "#2E66F2",
+    "logHistory": false,
+    "embed": true,
+    "client": 2
+  },
+  "resource": {
+    "channelId": "1001243086606839868",
+    "icon": "🔧",
+    "color": "#EBEE3F",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "nameChange": {
+    "channelId": "1001243087575716022",
+    "icon": "💠",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "explosion": {
+    "channelId": "1001243089211494531",
+    "icon": "🧨",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "screenshot": {
+    "channelId": "1001243091900047400",
+    "icon": "📸",
+    "color": "#A1A1A1",
+    "logHistory": false,
+    "embed": true,
+    "client": 2
+  },
+  "txAdmin": {
+    "channelId": "1001243090562060438",
+    "icon": "💻",
+    "color": "#FFFFFF",
+    "embed": true,
+    "client": 2
+  },
+  "damage": {
+    "channelId": "1001243084488708126",
+    "icon": "🩸",
+    "color": "#FF0000",
+    "embed": true,
+    "client": 2
+  },
+  "setjob": {
+    "channelId": "1003191171281068072",
+    "color": "#FF0000",
+    "embed": true,
+    "client": 2
+  },
+  "undefined": {
+    "channelId": 0,
+    "icon": "",
+    "color": "",
+    "embed": true,
+    "client": 1
+  },
+  "giveitem": {
+    "channelId": "1003195592069099590",
+    "icon": "package",
+    "color": "#ff0000",
+    "embed": true,
+    "client": 2
+  },
+  "revive": {
+    "channelId": "1003196558793261097",
+    "icon": "⚕️",
+    "color": "#4f0861",
+    "embed": true,
+    "client": 2
+  }
+}
